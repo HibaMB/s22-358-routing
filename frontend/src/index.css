@@ -56,7 +56,3 @@ main {
   background-color: var(--color-gray-800);
   padding: 1rem;
 }
-
-nav {
-  margin: auto;
-}
