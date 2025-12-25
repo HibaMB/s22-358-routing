@@ -48,3 +48,15 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+main {
+  margin: 2rem auto;
+  text-align: center;
+  min-height: 60lvh;
+  background-color: var(--color-gray-800);
+  padding: 1rem;
+}
+
+nav {
+  margin: auto;
+}
